@@ -93,3 +93,6 @@ A simple CLI allows users to:
 ## Project Objective:
 
 To develop a simple machine learning pipeline that predicts the species of iris flowers and provides useful insights through data visualizations.
+developed by:
+GOWTHAM P
+
